@@ -1,0 +1,22 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(½ëûßüÿÿÿÿ8¯ÏûçÃ0
+0
+java:S1220""Move this file to a named package.
+D
+java:S2189""Correct this loop's end condition.(×íÇŠıÿÿÿÿ8äóâçÃ0
+>
+java:S2189""Correct this loop's end condition.(åìî8ŞÏûçÃ0
+[
+java:S2251"9"i" is incremented and will never reach "stop condition".(×íÇŠıÿÿÿÿ8ëóâçÃ0
+U
+java:S2251"9"j" is incremented and will never reach "stop condition".(åìî8íÏûçÃ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯çÊµşÿÿÿÿ8ìóâçÃ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×8íÏûçÃ0
+]	java:S125"<This block of commented-out lines of code should be removed.(«˜Ö“ûÿÿÿÿ8ÇİáçÃ0
+P	java:S125"<This block of commented-out lines of code should be removed.(éõ¹#
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÇİáçÃ0
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¤™ÑçÃ0
