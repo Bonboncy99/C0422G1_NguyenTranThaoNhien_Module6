@@ -1,0 +1,48 @@
+header {
+  background: url("https://images.pexels.com/photos/4855385/pexels-photo-4855385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat;
+  background-size: cover;
+}
+
+.nav {
+  margin-top: 30px;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.cart-btn:hover {
+  background: #009688;
+  border-radius: 5px;
+  color: white;
+}
+
+.search-btn {
+  background: #009688;
+  color: white;
+  opacity: 0.8;
+}
+
+.search-btn:hover {
+  background: #009688;
+  color: white;
+  opacity: 1;
+}
+
+.nav.nav-pills {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 16px;
+  margin-top: 200px;
+}
+
+/*.nav-link {*/
+/*  color: white;*/
+/*}*/
+
+.nav-link:visited,
+.nav-link:hover {
+  color: #009688;
+  opacity: 0.8;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: white;
+  background: #009688;
+}
