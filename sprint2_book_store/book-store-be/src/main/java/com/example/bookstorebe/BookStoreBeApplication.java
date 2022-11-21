@@ -14,9 +14,9 @@ private EmailSenderService emailSenderService;
         SpringApplication.run(BookStoreBeApplication.class, args);
     }
 
-    @EventListener(ApplicationReadyEvent.class)
-    public void sendMail(){
-        emailSenderService.sendMail("wonwoobon@gmail.com",
-                "Tố cáo","Tố cáo user");
-    }
+//    @EventListener(ApplicationReadyEvent.class)
+//    public void sendMail(){
+//        emailSenderService.sendMail("wonwoobon@gmail.com",
+//                "Tố cáo","Tố cáo user");
+//    }
 }

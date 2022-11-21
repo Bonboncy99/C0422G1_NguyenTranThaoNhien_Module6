@@ -1,5 +1,6 @@
 package com.example.bookstorebe.model;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -33,6 +34,7 @@ public class Book {
     @JoinColumn(referencedColumnName = "id")
     private Author author;
 
+    @JsonBackReference
     @ManyToMany
     @JoinTable(name = "book_detail", joinColumns = @JoinColumn(name = "book_id"),
     inverseJoinColumns = @JoinColumn(name = "category_id"))
