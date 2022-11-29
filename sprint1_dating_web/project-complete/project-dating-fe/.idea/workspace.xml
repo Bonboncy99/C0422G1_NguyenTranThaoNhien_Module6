@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f59fd70-d4c9-4a4e-a7cb-834471ee1e49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-dating-fe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/account/component/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/account/component/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/account/component/reset-password/reset-password.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/account/component/reset-password/reset-password.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/chat/component/read-message/read-message.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/chat/component/read-message/read-message.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/friend/component/friend-request/friend-request.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/friend/component/friend-request/friend-request.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/friend/component/friendlist/friendlist.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/friend/component/friendlist/friendlist.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/friend/friend-service/gift-user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/friend/friend-service/gift-user.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/chat-box-only/chat-box-only.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/chat-box-only/chat-box-only.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/list-search/list-search.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/list-search/list-search.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/list-search/list-search.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/list-search/list-search.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/list-search/list-search.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/list-search/list-search.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/menu/menu.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/menu/menu.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/share/menu/menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/share/menu/menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/detail-post/detail-post.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/detail-post/detail-post.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/detail-post/detail-post.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/detail-post/detail-post.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/list-user/list-user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/list-user/list-user.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/personal-page/personal-page.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/personal-page/personal-page.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/personal-page/personal-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/personal-page/personal-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/personal-page/personal-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/personal-page/personal-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/post/post.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/post/post.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/post/post.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/post/post.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/post/post.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/post/post.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/update-avatar/update-avatar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/update-avatar/update-avatar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/update-avatar/update-avatar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/update-avatar/update-avatar.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/upgrade-account/upgrade-account.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/component/upgrade-account/upgrade-account.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/model/new-feed.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/model/new-feed.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/service/post.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/service/post.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/user/service/user-service.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/user/service/user-service.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/website/component/report-detail/report-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/website/component/report-detail/report-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dating-app-fe/src/app/website/component/report-detail/report-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dating-app-fe/src/app/website/component/report-detail/report-detail.component.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2HNqAsFgnp3ApHZGNxp6JNDQW9a" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../C0422G1-Project-Dating" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f59fd70-d4c9-4a4e-a7cb-834471ee1e49" name="Changes" comment="" />
+      <created>1668135749807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668135749807</updated>
+      <workItem from="1668135751018" duration="28000" />
+    </task>
+    <servers />
+  </component>
+</project>

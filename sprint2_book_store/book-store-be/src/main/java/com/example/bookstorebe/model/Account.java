@@ -23,6 +23,9 @@ public class Account {
     @JoinColumn(referencedColumnName = "id")
     private AppUser appUser;
 
+
+
+
     @ManyToMany
     @JoinTable(name = "account_role", joinColumns = @JoinColumn(name = "account_id"),
     inverseJoinColumns = @JoinColumn(name = "role_id"))
